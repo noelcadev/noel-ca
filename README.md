@@ -5,8 +5,6 @@ Soy un desarrollador iOS junior de Málaga 🇪🇸
 - 🧐 Estoy interesado en el desarrollo iOS. Utilizo principalmente Swift, SwiftUI y UIKit.
 - 🔭 Actualmente trabajo en [Digital Fruit](https://www.linkedin.com/company/digfruit/mycompany/) and [Saurus](https://saurus.com).
 - 📚 Técnico superior en desarrollo de aplicaciones multiplataforma. Formación como desarrollador iOS en Apple Coding, con Julio César Fernández.
-- 🏃🏻‍♂️ Me gusta el deporte: hago calistenia, running y yoga.
-- 🎵 Mi música favorita es el rock progresivo y alternativo.
 
 ## 🔧 Tecnologías & Herramientas
 
