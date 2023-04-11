@@ -1,9 +1,9 @@
 # ¡Hola 👋 Soy Noel!
 
-Soy un desarrollador iOS junior de Málaga 🇪🇸 
+Trabajo como desarrollador iOS desde Málaga 🇪🇸 
 
 - 🧐 Estoy interesado en el desarrollo iOS. Utilizo principalmente Swift, SwiftUI y UIKit.
-- 🔭 Actualmente trabajo en [Digital Fruit](https://www.linkedin.com/company/digfruit/mycompany/) and [Saurus](https://saurus.com).
+- 🔭 Actualmente trabajo en [LactApp](https://www.linkedin.com/company/lactapp/mycompany/)
 - 📚 Técnico superior en desarrollo de aplicaciones multiplataforma. Formación como desarrollador iOS en Apple Coding, con Julio César Fernández.
 
 ## 🔧 Tecnologías & Herramientas
